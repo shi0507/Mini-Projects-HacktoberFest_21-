@@ -36,7 +36,7 @@ void vline(char ch)
 
 {
 
-  for (int i=80;i>0;i--)
+  for(int i=80;i>0;i--)
 
   cout<<ch;
 
@@ -46,7 +46,7 @@ void a::install()
 
 {
 
-  cout<<"Enter bus no: ";
+  cout<<"Enter Bus no: ";
 
   cin>>bus[p].busn;
 
@@ -114,7 +114,7 @@ void a::allotment()
 
     {
 
-      cout<<"\nThere are only 32 seats available in this bus.";
+      cout<<"\nThere are only 32 seats available in this Bus.";
 
     }
 
@@ -146,7 +146,7 @@ void a::allotment()
 
     {
 
-      cout<<"Enter correct bus no.\n";
+      cout<<"Enter correct Bus no.\n";
 
       goto top;
 
@@ -159,7 +159,7 @@ void a::empty()
 
 {
 
-  for(int i=0; i<8;i++)
+  for(int i=0;i<8;i++)
 
   {
 
@@ -183,7 +183,7 @@ void a::show()
 
   char number[5];
 
-  cout<<"Enter bus no: ";
+  cout<<"Enter Bus no: ";
 
   cin>>number;
 
@@ -191,7 +191,7 @@ void a::show()
 
   {
 
-    if(strcmp(bus[n].busn, number)==0)
+    if(strcmp(bus[n].busn,number)==0)
 
     break;
 
@@ -219,7 +219,7 @@ while(n<=p)
 
   int a=1;
 
-  for (int i=0; i<8; i++)
+  for (int i=0;i<8;i++)
 
   {
 
@@ -243,7 +243,7 @@ while(n<=p)
 
   if(n>p)
 
-    cout<<"Enter correct bus no: ";
+    cout<<"Enter correct Bus no: ";
 
 }
 
