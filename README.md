@@ -39,3 +39,8 @@ It can be any of any length and can be any number of scripts, just add a folder 
 
 
 #### Note:Contribute some good codes, don't submit HelloWorld programs or your contribution will be marked as INVALID/SPAM.
+
+
+# Maintainer
+
+This is a maintainer account for Hactoberfest 2021 by [Shilpi Gupta](https://www.linkedin.com/in/shilpi-gupta-27b348194/).
