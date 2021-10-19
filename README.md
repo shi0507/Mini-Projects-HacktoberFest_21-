@@ -6,7 +6,7 @@
 
 # How to make your first pull request?
 
-## Step#1: Star this repo 🌟
+#### Step#1: Star this repo 🌟
 Star this repo for hacktoberfest
 
 ## Step#2: Show some love 😄
