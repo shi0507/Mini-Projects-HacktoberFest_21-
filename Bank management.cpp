@@ -278,7 +278,7 @@ void display_all()
 		cout<<"File could not be open !! Press any Key...";
 		return;
 	}
-	cout<<"\n\n\t\tACCOUNT HOLDER LIST\n\n";
+	cout<<"\n\n\t\tACCOUNT HOLDERS LIST\n\n";
 	cout<<"====================================================\n";
 	cout<<"A/c no.      NAME          Type    Balance\n";
 	cout<<"====================================================\n";
@@ -344,7 +344,7 @@ void deposit_withdraw(int n, int option)
 void intro()
 {
 	cout<<"\n\n\tBANK\tMANAGEMENT\tSYSTEM";
-	cout<<"\n\n\tMADE BY : Ujjwal Agarwal\n ";
+	cout<<"\n\n\tDEVELOP BY : Ujjwal Agarwal\n ";
 	cin.get();
 }
 //***************************************************************
