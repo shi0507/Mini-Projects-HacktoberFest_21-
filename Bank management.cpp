@@ -132,26 +132,26 @@ int main()
 			write_account();
 			break;
 		case '2':
-			cout<<"\n\n\tEnter The account No. : "; cin>>num;
+			cout<<"\n\n\tEnter The account Number : "; cin>>num;
 			deposit_withdraw(num, 1);
 			break;
 		case '3':
-			cout<<"\n\n\tEnter The account No. : "; cin>>num;
+			cout<<"\n\n\tEnter The account Number : "; cin>>num;
 			deposit_withdraw(num, 2);
 			break;
 		case '4':
-			cout<<"\n\n\tEnter The account No. : "; cin>>num;
+			cout<<"\n\n\tEnter The account Number : "; cin>>num;
 			display_sp(num);
 			break;
 		case '5':
 			display_all();
 			break;
 		case '6':
-			cout<<"\n\n\tEnter The account No. : "; cin>>num;
+			cout<<"\n\n\tEnter The account Number : "; cin>>num;
 			delete_account(num);
 			break;
 		 case '7':
-			cout<<"\n\n\tEnter The account No. : "; cin>>num;
+			cout<<"\n\n\tEnter The account Number : "; cin>>num;
 			modify_account(num);
 			break;
 		 case '8':
