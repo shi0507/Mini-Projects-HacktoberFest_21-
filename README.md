@@ -38,7 +38,7 @@ Add any project, piece of code or script of your choice you wish to share in thi
 It can be any of any length and can be any number of scripts, just add a folder with your name or projects name.
 
 
-#### Note:Contribute some good codes, don't submit HelloWorld programs or your contribution will be marked as INVALID/SPAM.
+#### Note:Contribute some good codes, don't submit HelloWorld programs or your contribution will be marked as SPAM.
 
 
 # Maintainer
