@@ -3,8 +3,8 @@
 <div align="center">
   <img src="https://hacktoberfest.digitalocean.com/_nuxt/img/logo-hacktoberfest-full.f42e3b1.svg" />
   </div>
-  <h1># Mini-Projects-HactoberFest_21</h1>
-<h3>Hactoberfest 2021 is live. Contribute your projects.</h3>
+  <h1># Mini-Projects-HacktoberFest_21</h1>
+<h3>Hacktoberfest 2021 is live. Contribute your projects.</h3>
 Follow the README below to get started! 🔥 
 
 ## The Process  ✅
