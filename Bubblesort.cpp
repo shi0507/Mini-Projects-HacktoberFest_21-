@@ -8,7 +8,7 @@ void swap(int *xp, int *yp)
 	*xp = *yp;
 	*yp = temp;
 }
-
+//bubblesort
 void bubbleSort(int arr[], int n)
 {
 	int i, j;
@@ -19,7 +19,7 @@ void bubbleSort(int arr[], int n)
 		if (arr[j] > arr[j+1])
 			swap(&arr[j], &arr[j+1]);
 }
-
+//print the array
 void printArray(int arr[], int size)
 {
 	int i;
@@ -27,7 +27,7 @@ void printArray(int arr[], int size)
 		cout << arr[i] << " ";
 	cout << endl;
 }
-
+//main fuction
 int main()
 {
 	int arr[] = {64, 34, 25, 12, 22, 11, 90};
